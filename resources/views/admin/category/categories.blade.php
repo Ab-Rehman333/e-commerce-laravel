@@ -102,7 +102,7 @@
 						@endforeach
 						@else
 						<tr>
-							<td colspan="5">NO category Found</td>
+							<td colspan="5">No category Found :) </td>
 						</tr>
 
 						@endif
@@ -123,7 +123,5 @@
 
 
 @section('customJs')
-<script>
-	console.log('working')
-</script>
+
 @endsection
